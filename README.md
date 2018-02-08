@@ -18,3 +18,10 @@ Build the project (Not suitable for production, its a development build)
 ```
 npm run build
 ```
+## Built With
+* [React](https://reactjs.org/) - For the UI
+* [Webpack](https://webpack.js.org/) - For bundling
+* [SCSS](https://sass-lang.com/) - For Styling
+
+## Acknowledgments
+[Andrew Mead](https://github.com/andrewjmead)'s Udemy Course titled **The Complete React Web Developer Course(with Redux)**
